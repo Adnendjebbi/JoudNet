@@ -15,7 +15,9 @@ A modern Windows desktop app for **DNS benchmarking**, **network diagnostics**, 
 
 ## Screenshots
 
-_Add screenshots here before publishing — e.g. dashboard (light/dark), DNS servers page, a network tool._
+<img width="2559" height="1392" alt="image" src="https://github.com/user-attachments/assets/75ec9107-78de-41b7-a386-6aa94a9bb5ad" />
+<img width="2555" height="1387" alt="image" src="https://github.com/user-attachments/assets/8c1d12d7-218f-4cf3-8d1a-41e95ca229eb" />
+
 
 ## Features
 
